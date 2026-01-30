@@ -4,7 +4,7 @@ To achieve this, I have started learning Cloud and DevOps. I strongly believe th
 
 To me, DevOps is a culture that improves the speed and reliability of application delivery by focusing on automation, quality, testing, and continuous monitoring.
 
-Over the next 90 days, I am fully committed to upskilling. I plan to dedicate 2–3 hours every day to learning and practice. By the end of this period, my goal is to have:
+Over the next 90 days, I am fully committed to upskilling. I plan to dedicate 3-4 hours every day to learning and practice. By the end of this period, my goal is to have:
 
 Strong hands-on experience with AWS
 
