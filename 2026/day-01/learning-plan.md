@@ -2,7 +2,7 @@ My name is Aman Sharma, and I am currently working at Oracle as a Change Impleme
 
 To achieve this, I have started learning Cloud and DevOps. I strongly believe that consistent hard work can outperform raw talent, and I am ready to put in the effort required. My goal is to build a strong career either as a Cloud Engineer or a DevOps Engineer.
 
-To me, DevOps is a culture that improves the speed and reliability of application delivery by focusing on automation, quality, testing, and continuous monitoring.
+To me, DevOps is a culture that improves the speed and reliability of application delivery by focusing on automation, quality, testing, and continuous monitoring. And Cloud engineering means using the internet (cloud) to run and manage applications instead of physical servers, so systems are easier to build, scale, and maintain.
 
 Over the next 90 days, I am fully committed to upskilling. I plan to dedicate 3-4 hours every day to learning and practice. By the end of this period, my goal is to have:
 
